@@ -91,4 +91,6 @@ Uma vez que o servidor esteja rodando localmente, a documentação Swagger inter
 ---
 
 ## 🎥 6. Links das Evidências
-* **Vídeo Explicativo do Projeto:** [].
+* **Vídeo Explicativo do Projeto:** https://drive.google.com/file/d/1kjubj04-u3hSUlpUl3DtGK5hw1cUZu2d/view?usp=sharing
+* **Repositório:** https://github.com/cascanio/fastapi-mnist
+
